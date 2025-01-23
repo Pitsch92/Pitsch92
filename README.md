@@ -5,7 +5,6 @@ Porto Alegre, Rio Grande do Sul, Brasil
 
 ---
 
-## Sobre Mim
 Sou Guilherme, um profissional apaixonado por tecnologia e sempre curioso para aprender mais. Com formação em Química Industrial e experiência em atendimento ao público, encontrei na tecnologia a oportunidade de alinhar minhas expectativas profissionais ao meu desejo constante de aprendizado. Atualmente, estou em transição de carreira para a área de dados.
 
 Estou cursando **Análise e Desenvolvimento de Sistemas** pela Unisinos e também estudando **Engenharia de Dados** na Growdev. Tenho me dedicado a desenvolver habilidades em:
@@ -28,7 +27,7 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** pela Unisinos e també
 - Databricks
 
 
----
+<!--
 
 ## Formação Acadêmica
 
@@ -41,7 +40,7 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** pela Unisinos e també
 - **PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul**  
   Bacharelado em Química Industrial (2010 - 2015)
 
----
+--->
 
 
 
