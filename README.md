@@ -20,9 +20,13 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** pela Unisinos e també
 ---
 
 ## Competências Principais
+- ETL
+- SQL
 - Visualização de Dados
 - Dashboards
 - Análise de Dados
+- Databricks
+
 
 ---
 
